@@ -8,4 +8,3 @@ STM32F411RET6
 - Elevator movement control (up / down)
 - Floor detection and stop
 - Basic elevator control logic
-
